@@ -1,0 +1,13 @@
+react app
+   
+
+
+1. as library (import from cdn)
+
+2. use cra(create-react-app)
+ a. node install
+ b. npx create-react-app app-name
+ 
+
+
+use vite
